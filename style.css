@@ -5,15 +5,15 @@ background-color: red;
 
 Estilizar o título principal do seu site
  h1{
-color: ;
-font-family: ;
-background: ;
+color:black ;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+background:black ;
 }
 
 Estilizar os parágrafos
 p{
-color: ;
-font-family: ;
-font-size: ;
-background: ;
+color:white ;
+font-family:Arial, Helvetica, sans-serif ;
+font-size: 100px;
+background:white ;
 }
